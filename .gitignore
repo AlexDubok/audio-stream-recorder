@@ -1,0 +1,7 @@
+.history
+.vscode
+.env
+
+*.log
+*.mp3
+node_modules
